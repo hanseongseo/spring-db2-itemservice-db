@@ -25,7 +25,7 @@ import java.util.*;
  * SqlParameterSource
  * - BeanPropertySqlParameterSource
  * - MapSqlParameterSource
- * - Map
+ * Map
  * - BeanPropertyRowMapper
  *
  */
